@@ -12,7 +12,7 @@ Youtube demo of a version of the project created using Node's httpserver is here
 
 The prototype of the project in pure Javascript is here: https://github.com/MaximumBeings/Udacity_Javascript_Nanodegree_NASA_Project_2_Prototype_Pure_Javascript_Version
 
-A version of the project implemented in node without express webframework is here: https://github.com/MaximumBeings/Udacity_Javascript_Nanodegree_NASA_Project_2
+A version of the project implemented in node without express webframework is here: https://github.com/MaximumBeings/Udacity_Javascript_Express_Version_2A
 
 A description of the project per Udacity's website is here:
 
